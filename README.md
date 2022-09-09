@@ -13,6 +13,8 @@ git add\
 
 git log\
 
+| commands              | 意义  |
+|-----------------------|:-----:|
 |git branch 分支名      | 建分支|
 |git checkout 分支名    | 切分支|
 
