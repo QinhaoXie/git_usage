@@ -17,6 +17,8 @@ git log\
 |-----------------------|:-----:|
 |git branch 分支名      | 建分支|
 |git checkout 分支名    | 切分支|
+|git checkout -d 分支名    | 删分支|
+|git merge -d 其他分支名    | 将其他分支合并到本分支|
 
 
 偶尔用:\
